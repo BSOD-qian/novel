@@ -8,4 +8,4 @@
 “因为，”魔龙说，“我不是人，而是龙。你未必打得过我。”  
 “行吧。”被这龙奇妙的脑回路震惊，你思考着要不要把宝石给它。
 ---
-Training progress: <span style="color: red;">78% - failed</span>
+Simulating progress: <span style="color: red;">78% - failed</span>
