@@ -1,4 +1,4 @@
-- [说明](/novel/README.md)
+- [说明](/README.md)
 
 * 勇者传说
-  - [第一话](/novel/ch1/ep1.md)
+  - [第一话](/ch1/ep1.md)
