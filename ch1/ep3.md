@@ -14,4 +14,4 @@
 “呵呵...我...果然...是个...废...物...”  
 “...”  
 ---
-<i class="fa-solid fa-circle-check" style="color: green;"></i> Simulate complete. 
+<i class="fa-solid fa-circle-info"></i> Simulate complete. 
