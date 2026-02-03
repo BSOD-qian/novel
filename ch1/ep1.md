@@ -1,3 +1,4 @@
+![logo](/logo.png ':size=10%')  
 *部分物品名来自游戏[《文字游戏》](https://store.steampowered.com/app/1109570)*
 # 第一话
 很久很久以前，邪恶的魔龙抓走了美丽的公主。  
